@@ -1,5 +1,0 @@
-class hello{
-  class xyz{
-    
-  }
-}
